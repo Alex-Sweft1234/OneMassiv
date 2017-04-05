@@ -1,0 +1,6 @@
+C:\Users\babae_000\Desktop\Одномерные массивы\OneMassiv\OneMassiv\bin\Debug\OneMassiv.exe.config
+C:\Users\babae_000\Desktop\Одномерные массивы\OneMassiv\OneMassiv\bin\Debug\OneMassiv.exe
+C:\Users\babae_000\Desktop\Одномерные массивы\OneMassiv\OneMassiv\bin\Debug\OneMassiv.pdb
+C:\Users\babae_000\Desktop\Одномерные массивы\OneMassiv\OneMassiv\obj\Debug\OneMassiv.csprojResolveAssemblyReference.cache
+C:\Users\babae_000\Desktop\Одномерные массивы\OneMassiv\OneMassiv\obj\Debug\OneMassiv.exe
+C:\Users\babae_000\Desktop\Одномерные массивы\OneMassiv\OneMassiv\obj\Debug\OneMassiv.pdb
