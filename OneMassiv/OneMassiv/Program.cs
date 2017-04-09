@@ -12,6 +12,7 @@ namespace OneMassiv
         double[] mas = new double[n];
         Random r = new Random();
         Random k = new Random();
+        bool flag = false;
         public double[] InMas()
         {
             for (int i = 0; i < n; i++)
@@ -38,12 +39,13 @@ namespace OneMassiv
                     x += mas[i];
                 }
             }
+            flag = true;
             return x;
         }
         public double UmValue()
         {
             double w = 1;
-            InMas();
+            if (!flag) InMas();
             Array.Sort(mas);
             foreach (double s in mas)
             {
@@ -59,9 +61,12 @@ namespace OneMassiv
     class Program
     {
 
+
         static void Main(string[] args)
         {
+
             Massiv c = new Massiv();
+
             double d = c.SumOtr();
             Console.WriteLine("Сумма отрицательных элементов: {0}", d);
             double p = c.UmValue();
